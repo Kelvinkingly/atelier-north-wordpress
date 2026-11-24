@@ -2,6 +2,12 @@
 
 Independent WordPress portfolio by KnowEdge Business Development Services Ltd. A premium homeware catalogue with an original charcoal, walnut and sand editorial design. Six editable products, search, collection filters, price sorting, product detail views, browser-local cart, quantity controls, delivery estimates and checkout preview. No order, payment, inventory guarantee, customer data collection or delivery is provided.
 
+## Live website
+
+[Explore Atelier North](https://ateliernorth-knowedge.infinityfree.io/)
+
+[![Atelier North homepage](https://raw.githubusercontent.com/Kelvinkingly/Kelvinkingly/main/assets/atelier-north-homepage.jpg)](https://ateliernorth-knowedge.infinityfree.io/)
+
 ## Installation
 Zip `theme/atelier-north`, upload through WordPress Appearance → Themes → Add Theme → Upload Theme, then activate. Products are seeded once and editable under **Store products**. Prices and categories are editable in Catalogue details; optionally add a featured image. Use an approved production commerce solution for payment, fulfilment and customer records.
 
